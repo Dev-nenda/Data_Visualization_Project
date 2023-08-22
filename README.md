@@ -22,7 +22,7 @@ Python을 기반으로 데이터 분석과 시각화 툴을 사용하여 실버�
 - Python
 - Pandas
 - Numpy
-- Matplolib
+- Matplotlib
 - Folium
 - Jupyter Notebook
 
